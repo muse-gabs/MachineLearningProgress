@@ -13,3 +13,7 @@ which helped me be able to get the image to show when running the program in Vis
 
 Here is how my screen looks after setting it up: 
 ![alt text](https://github.com/muse-gabs/OpenCVProgramming/blob/main/getting%20image%20to%20show%20in%20visual%20studio%20code.png?raw=true)
+
+The code shown there was part of the official opencv github for deep neural networks on openpose.
+
+https://github.com/opencv/opencv/blob/master/samples/dnn/openpose.py
