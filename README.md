@@ -17,3 +17,13 @@ Here is how my screen looks after setting it up:
 The code shown there was part of the official opencv github for deep neural networks on openpose.
 
 https://github.com/opencv/opencv/blob/master/samples/dnn/openpose.py
+
+# Python Machine Learning Linear Regression Model
+
+Took a step back to learn how to test and train a model with a simpler data set.
+
+# NLP 
+
+Still trying to fully understand Word2Vec and Gensim model, want to eventually be able to create my own model
+
+*Big eventual goal is to be able to train a model so that we can develop sign language in real time for videos using either motion processing or subtitle processing, I finish my CS Degree in June 2021, am hoping to learn as much as I can as fast as I can within the following months while taking 2 classes and having a part-time job, it's a stretch but this is my current goal*
