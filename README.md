@@ -18,9 +18,13 @@ The code shown there was part of the official opencv github for deep neural netw
 
 https://github.com/opencv/opencv/blob/master/samples/dnn/openpose.py
 
-# Python Machine Learning Linear Regression Model
+# Python Machine Learning Model
 
 Took a step back to learn how to test and train a model with a simpler data set.
+
+Utilized UCI's Machine Learning Repository to do a Linear Regression model, see linearRegression.py for information (everything is in the comments)
+
+Used this data set https://archive.ics.uci.edu/ml/datasets/Student+Performance to work with for a simplistic model. 
 
 # NLP 
 
