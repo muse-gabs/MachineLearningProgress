@@ -1,7 +1,7 @@
 Contents:
-OpenCV - https://github.com/muse-gabs/MachineLearningProgress#opencvprogramming
-Python Machine Learning Modeling - https://github.com/muse-gabs/MachineLearningProgress#python-machine-learning-model
-NLP - https://github.com/muse-gabs/MachineLearningProgress#nlp
+* OpenCV - https://github.com/muse-gabs/MachineLearningProgress#opencvprogramming
+* Python Machine Learning Modeling - https://github.com/muse-gabs/MachineLearningProgress#python-machine-learning-model
+* NLP - https://github.com/muse-gabs/MachineLearningProgress#nlp
 
 # OpenCVProgramming
 working on computer vision in my spare time
