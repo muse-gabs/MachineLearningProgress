@@ -26,6 +26,20 @@ Utilized UCI's Machine Learning Repository to do a Linear Regression model, see 
 
 Used this data set https://archive.ics.uci.edu/ml/datasets/Student+Performance to work with for a simplistic model. 
 
+Continuing with the dataset and creating linearRegressionPart2.py I was able to plot the different relationships between the G3 which was our predicted variable and G1, G2, failures, absences, and studytime. 
+
+The graphed results are shown below:
+
+![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/G1Chart.png)
+
+![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/G2Chart.png)
+
+![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/failureChart.png)
+
+![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/absencesChart.png)
+
+![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/studytimeChart.png)
+
 # NLP 
 
 Still trying to fully understand Word2Vec and Gensim model, want to eventually be able to create my own model
