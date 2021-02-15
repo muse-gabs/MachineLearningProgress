@@ -23,6 +23,9 @@ The code shown there was part of the official opencv github for deep neural netw
 
 https://github.com/opencv/opencv/blob/master/samples/dnn/openpose.py
 
+Now the image of the people is not the right color, this is because when we plt.imshow(img) the image is shown in BGR format instead of RGB, to change that we convert the image to RGB by using plt.imshow(cv.cvtColor(img, cv.COLOR_BGR2RGB)) this results in the screen below:
+![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/change%20image%20to%20RGB.png)
+
 # Python Machine Learning Model
 
 Took a step back to learn how to test and train a model with a simpler data set.
