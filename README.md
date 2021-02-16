@@ -26,8 +26,13 @@ https://github.com/opencv/opencv/blob/master/samples/dnn/openpose.py
 Now the image of the people is not the right color, this is because when we plt.imshow(img) the image is shown in BGR format instead of RGB, to change that we convert the image to RGB by using plt.imshow(cv.cvtColor(img, cv.COLOR_BGR2RGB)) this results in the screen below:
 ![alt text](https://github.com/muse-gabs/MachineLearningProgress/blob/main/change%20image%20to%20RGB.png)
 
-I realized I was jumping the gun a little with trying to get poses of a group of people before getting poses for 1 person, after some tweaking I was able to get the model for different poses. Shown in the updated version of poseEstimation.py as well as the images that I'll add below:
+I realized I was jumping the gun a little with trying to get poses of a group of people before getting poses for 1 person, after some tweaking I was able to get the model for different poses. Shown in the updated version of poseEstimation.py as well as the image that I'll add below:
 
+
+
+| before pose estimation      | after pose estimation     |
+|-----------------------------|---------------------------|
+| <img src="https://github.com/muse-gabs/MachineLearningProgress/blob/main/testpose.jpg" width="250"> | <img src="https://github.com/muse-gabs/MachineLearningProgress/blob/main/poseResult1.png" width="350"> |
 # Python Machine Learning Model
 
 Took a step back to learn how to test and train a model with a simpler data set.
